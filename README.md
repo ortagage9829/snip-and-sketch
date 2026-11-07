@@ -5,17 +5,6 @@ Capture the relevant area, explain it visually, and copy or save the result.
 
 [![GET Snip & Sketch](https://img.shields.io/badge/GET-Snip%20%26%20Sketch-0891B2?style=flat-square&labelColor=164E63)](https://github.com/ortagage9829/snip-and-sketch/releases/)
 
-## Index
-
-- [Capture choices](#capture-choices)
-- [Working with a captured image](#working-with-a-captured-image)
-- [Keyboard and Windows integration](#keyboard-and-windows-integration)
-- [Clipboard and saved files](#clipboard-and-saved-files)
-- [Package identification](#package-identification)
-- [Legacy integration example](#legacy-integration-example)
-- [Troubleshooting](#troubleshooting)
-- [Product identity](#product-identity)
-
 ## Capture Choices
 
 Choose the smallest capture that still explains the situation.
